@@ -10,7 +10,7 @@ npm i template-render --save
 
 ## Usage
 
-Create a stream that will render files using [Template](https://github.com/jonschlinkert/template). Works with [gulp](https://github.com/gulpjs/gulp/), [verb](https://github.com/jonschlinkert/verb)and [assemble](https://github.com/assemble/assemble).
+Create a stream that will render files using [Template](https://github.com/jonschlinkert/template). Works with [gulp](https://github.com/gulpjs/gulp/), [verb](https://github.com/jonschlinkert/verb) and [assemble](https://github.com/assemble/assemble).
 
 **Example:**
 
